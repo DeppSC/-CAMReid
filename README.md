@@ -3,3 +3,5 @@
 A simple implement for the paper "Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification"
 
 # prerequisites
+
+## The CAM 
